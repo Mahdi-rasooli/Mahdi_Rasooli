@@ -55,12 +55,12 @@
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
-  <a href="https://your-website.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mahdi-rasooli-86309b306"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:mahdirasooli8029@email.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
+ <!-- <a href="https://your-website.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" /></a> -->
 </p>
 
 ---
 
 <!-- Footer -->
-<p align="center">💡 "Code is like humor. When you have to explain it, it’s bad." — Cory House</p>
+<p align="center">💡 "Life is a dream for the wise, a game for the fool, a comedy for the rich, a tragedy for the poor."</p>
