@@ -38,11 +38,9 @@
 <!-- Contribution Snake -->
 ### 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="file:///C:/Users/Asus/Downloads/github-user-contribution.svg" />
-</picture>
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?user=Mahdi-rasooli" />
+</p>
 
 ---
 
